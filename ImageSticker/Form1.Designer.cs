@@ -16,7 +16,6 @@ partial class Form1
         base.Dispose(disposing);
     }
 
-    #region Windows Form Designer generated code
     
     private void InitializeComponent()
     {
