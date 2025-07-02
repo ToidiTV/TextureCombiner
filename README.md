@@ -4,4 +4,4 @@
 
 ## Version
 
-Current release version: **v1.1.0**
+Current release version: **v1.2.0**
