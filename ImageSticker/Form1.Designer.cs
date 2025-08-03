@@ -25,5 +25,6 @@ partial class Form1
         this.Text = "Form1";
     }
 
-    #endregion
+    //#endregion
 }
+
